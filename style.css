@@ -1,5 +1,5 @@
-
 body{
+    margin: 0;
 }
 
 .highlight{
@@ -19,4 +19,19 @@ padding-left: 2%;
 }
 .half-width img{
     width: 80%;
+}
+.top-banner{
+background-image: url("/images/top-banner.png");
+background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+}
+.link{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 2%;
+    border-radius: 5px;
 }
